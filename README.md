@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gem</h1>
-<h3 align="center">A passionate full stack developer in the Philippines and someday be a Software Engineer.</h3>
+<h3 align="center">A passionate full stack developer from the Philippines who aspires to be a software engineer one day.</h3>
 
 <p align="left"> <a href="https://twitter.com/_gemvicente" target="blank"><img src="https://img.shields.io/twitter/follow/_gemvicente?logo=twitter&style=for-the-badge" alt="_gemvicente" /></a> </p>
 
