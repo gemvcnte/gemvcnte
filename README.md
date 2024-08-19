@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_gemvicente" target="blank"><img src="https://img.shields.io/twitter/follow/_gemvicente?logo=twitter&style=for-the-badge" alt="_gemvicente" /></a> </p>
 
-- 🔭 I’m currently working on **Inventory Management System**
+- 🔭 I’m currently working on a **Inventory Management System**, **Dorm Management System** and other type of systems.
 
 - 🌱 I’m currently learning **SpringBoot, Golang, and Vue**
 
