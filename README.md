@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **SpringBoot, Golang, and Vue**
 
-- 👨‍💻 All of my projects are available at [https://www.codeglyph.co](https://www.codeglyph.co)
+- 👨‍💻 All of my projects are available at [https://www.joshuagemvicente.com](https://www.joshuagemvicente.co,)
 
 - 💬 Ask me about **anything !**
 
-- 📫 How to reach me **gemvicente6@gmail.com**
+- 📫 How to reach me **gemvicente6@gmail.com** or **joshuagemvicente6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
