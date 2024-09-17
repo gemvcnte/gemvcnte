@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Golang, and Vue**
 
-- 👨‍💻 All of my projects are available at [https://www.joshuagemvicente.com](https://www.joshuagemvicente.co,)
+- 👨‍💻 All of my projects are available at [https://www.joshuagemvicente.com](https://www.joshuagemvicente.com)
 
 - 💬 Ask me about **anything !**
 
